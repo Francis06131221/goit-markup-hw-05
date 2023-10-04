@@ -459,9 +459,9 @@ h1 {
     display: flex;
     flex-direction: row;
 } 
-.logo-footer {
-    /* margin-left: 156px; */
-}
+/* .logo-footer {
+     margin-left: 156px;
+}*/
 .studio-logo-foot {
     color: var(--CLOUD);
     font-family: Raleway;
